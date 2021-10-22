@@ -9,7 +9,7 @@
      <img alt="Made by Hosana Barcelos" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS -%15C3D6?style=flat-square&color=811EFF&labelColor=000">
 </p>
 
-**After Pandemic** é uma plataforma para usuários autenticados compartilharem mensagens e experiências que levarão da pandemia, causada pelo vírus Covid-19. Compartilhe aprendizados, conquistas e experiências que você teve durante esse período crítico. ➡ Desenvolvida durante a Next Level Week #07 Heat da [Rocketseat](https://rocketseat.com.br/). 
+**After Pandemic** é uma plataforma para usuários autenticados compartilharem mensagens e experiências que levarão da pandemia, causada pelo vírus Covid-19. Compartilhe aprendizados, conquistas e experiências que você teve durante esse período crítico. Projeto desenvolvido durante a Next Level Week #07 Heat da [Rocketseat](https://rocketseat.com.br/). 
 
 ## Protótipo do Projeto
 
